@@ -1,0 +1,1 @@
+export const CREARE_COURSE = "CREATE_COURSE"
